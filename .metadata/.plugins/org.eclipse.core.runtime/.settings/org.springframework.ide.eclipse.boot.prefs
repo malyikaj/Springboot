@@ -1,11 +1,14 @@
 eclipse.preferences.version=1
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=demo
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-jpa=2
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.mysql=2
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=2
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=SpringbootJPA
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.5.1
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Demo project for Spring Boot
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.example.coreproject
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=1.8
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=demo
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=SpringbootJPA
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.SpringBootFirstProject.demo
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN

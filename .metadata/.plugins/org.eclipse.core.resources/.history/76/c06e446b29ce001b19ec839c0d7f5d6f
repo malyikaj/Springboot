@@ -1,7 +1,0 @@
-package com.SpringBootFirstProject.demo;
-
-public class Person {
-	
-	private int emp_id;
-
-}
