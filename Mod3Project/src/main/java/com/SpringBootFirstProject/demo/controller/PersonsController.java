@@ -1,9 +1,10 @@
 package com.SpringBootFirstProject.demo.controller;
-
+//import org.springframework.web.bind.annotation.CrossOrigin;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -16,6 +17,7 @@ import com.SpringBootFirstProject.demo.model.Persons;
 import com.SpringBootFirstProject.demo.repository.PersonRepository;
  
 
+@CrossOrigin(origins = "http://localhost:3000")
 @RestController
 @RequestMapping("/api")
 
