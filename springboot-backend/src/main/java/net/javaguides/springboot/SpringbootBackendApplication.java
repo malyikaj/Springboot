@@ -19,9 +19,6 @@ public class SpringbootBackendApplication implements CommandLineRunner{
 	
 	@Override
 	public void run(String... args) throws Exception {
-		this.userRepository.save(new User ("Becky", "Sanchez", "beckysanchez@gmail.com"));
-		this.userRepository.save(new User ("Micheal", "Marin", "michealmarin@gmail.com"));
-		this.userRepository.save(new User ("Meeka", "Nima", "meekanima@gmail.com"));
 	}
 
 }
